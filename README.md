@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently working on my assignments for WDD 330
-I'm currently learning HTML, Javascript, and CSS
-Ask me about dropgenerator.com
-How to reach me: jordancreitz@gmail.com
+- I'm currently working on my assignments for WDD 330
+- I'm currently learning HTML, Javascript, and CSS
+- Ask me about dropgenerator.com
+- How to reach me: jordancreitz@gmail.com
